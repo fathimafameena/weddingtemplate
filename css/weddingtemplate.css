@@ -1,0 +1,100 @@
+body {
+  font-family: 'Lato';
+
+  background-color: #f7e5af;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'Pattaya', sans-serif;
+  font-weight: 400 !important;
+}
+.bg-marron{
+
+	background-color: #b52c39;
+}
+
+.aboutpadding{
+
+	padding:10px;
+	margin-top:10px;
+	margin-bottom: 0px;
+}
+.widthcustom{
+
+	width:200px;
+	height:200px;
+
+}
+
+.aligncenter{
+	align-items: center;
+}
+.bg-pink{
+
+	background-color: orange;
+}
+
+.btn-center{
+
+	align-items: center;
+	right:10px;
+}
+.updiv{
+position:relative;
+	z-index:1;
+	top:-100px;
+	left:-5px;
+}
+.aboutpaddingh2{
+
+	padding:45px;
+}
+.aboutpaddingbutton{
+
+	margin:15px;
+}
+ .carousel-inner img {
+      width: 100%;
+      height: 100%;
+  }
+  .bordercar{
+
+	background-color:#b52c39;
+	border-style: solid;
+}
+@media (max-width: 600px) {
+
+
+.widthcustom{
+
+	width:100px;
+	height:100px;
+
+}
+
+h4{
+
+	font-size: 14px;
+}
+.aboutpaddingh2{
+
+	padding:25px;
+}
+
+.updiv{
+position:relative;
+	z-index:1;
+	top:-50px;
+	left:-5px;
+}
+
+h1{
+
+
+	font-size:30px;
+	}}
